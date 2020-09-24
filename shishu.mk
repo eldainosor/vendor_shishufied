@@ -137,28 +137,28 @@ PRODUCT_PACKAGES += \
 #    QSHeaderTransparent
 
 # QS Tile Styles packages
-PRODUCT_PACKAGES += \
-    QSTileDualTone \
-    QSTileTrim \
-    QSTileDualToneTrim \
-    QSTileMonoGradient \
-    QSTileInkdrop \
-    QSTileIconAccent \
-    QSTileShishuNights \
-    QSTileMemedoSquare \
-    QSTileWavey \
-    QSTileAttemptMountain \
-    QSTileDottedCircle \
-    QSTileNinja \
-    QSTileShishuInk \
-    QSTileCookie \
-    QSTileCosmos \
-    QSTileDividedCircle \
-    QSTileNeonLight \
-    QSTileOxygen \
-    QSTileTriangles \
-    QSTileGradient \
-    QSTilePureAccent
+#PRODUCT_PACKAGES += \
+#    QSTileDualTone \
+#    QSTileTrim \
+#    QSTileDualToneTrim \
+#    QSTileMonoGradient \
+#    QSTileInkdrop \
+#    QSTileIconAccent \
+#    QSTileShishuNights \
+#    QSTileMemedoSquare \
+#    QSTileWavey \
+#    QSTileAttemptMountain \
+#    QSTileDottedCircle \
+#    QSTileNinja \
+#    QSTileShishuInk \
+#    QSTileCookie \
+#    QSTileCosmos \
+#    QSTileDividedCircle \
+#    QSTileNeonLight \
+#    QSTileOxygen \
+#    QSTileTriangles \
+#    QSTileGradient \
+#    QSTilePureAccent
 
 # Hot garbage
 #PRODUCT_PACKAGES += \
