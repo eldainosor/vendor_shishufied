@@ -129,12 +129,12 @@ PRODUCT_PACKAGES += \
     ShishuAmalgamationThemeSystemUIOverlay
 
 # QS header styles
-PRODUCT_PACKAGES += \
-    QSHeaderBlack \
-    QSHeaderGrey \
-    QSHeaderLightGrey \
-    QSHeaderAccent \
-    QSHeaderTransparent
+#PRODUCT_PACKAGES += \
+#    QSHeaderBlack \
+#    QSHeaderGrey \
+#    QSHeaderLightGrey \
+#    QSHeaderAccent \
+#    QSHeaderTransparent
 
 # QS Tile Styles packages
 PRODUCT_PACKAGES += \
