@@ -51,4 +51,7 @@
     <color name="global_actions_separated_background">@*android:color/background_material_dark</color>
     <!-- The color of the background in the grid of the Global Actions menu -->
     <color name="global_actions_grid_background">@*android:color/background_material_dark</color>
+
+    <!-- Music player divider -->
+    <color name="media_divider">#00000000</color>
 </resources>
