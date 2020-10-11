@@ -44,4 +44,8 @@
     <color name="notification_icon_bg_color">@*android:color/accent_device_default</color>
     <color name="accent_device_default_700">@*android:color/accent_device_default</color>
     <color name="system_notification_accent_color">@*android:color/accent_device_default</color>
+
+    <!-- Added these because Google sure loves mixing AOSP teal with pixel blue -->
+    <color name="chooser_chip_icon">@*android:color/accent_device_default</color> <!-- Blue 300 -->
+    <color name="personal_apps_suspension_notification_color">@*android:color/accent_device_default</color>
 </resources>
