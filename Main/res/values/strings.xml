@@ -60,6 +60,25 @@
 	<string name="theme_wallpaper_title_pissel">Pixel wallpaper</string>
 	<string name="theme_wallpaper_attribution_pissel">Made by Google, with some branding.</string>
 
+	<!-- Pacleggers Theme -->
+	<string name="theme_name_pacleggers">PACLEGGERS</string>
+	<string name="theme_title_pacleggers">@string/theme_name_pacleggers</string>
+	<string name="theme_overlay_color_pacleggers">com.bootleggers.shishufied.accent.pacleggers</string>
+	<string name="theme_overlay_font_pacleggers">com.bootleggers.shishufied.font.jakartaplus</string>
+	<string name="theme_overlay_style_android_pacleggers">com.bootleggers.shishufied.theme.pacleggers.android</string>
+	<string name="theme_overlay_style_settings_pacleggers">com.bootleggers.shishufied.theme.pacleggers.settings</string>
+	<string name="theme_overlay_style_sysui_pacleggers">com.bootleggers.shishufied.theme.pacleggers.systemui</string>
+	<string name="theme_overlay_icon_android_pacleggers">com.android.theme.icon_pack.rounded.android</string>
+	<string name="theme_overlay_icon_launcher_pacleggers">com.android.theme.icon_pack.rounded.launcher</string> 
+	<string name="theme_overlay_icon_settings_pacleggers">com.android.theme.icon_pack.rounded.settings</string>
+	<string name="theme_overlay_icon_sysui_pacleggers">com.android.theme.icon_pack.rounded.systemui</string>
+	<string name="theme_overlay_shape_pacleggers">com.android.theme.icon.leaf</string>
+	<!-- Special Strings for wallpaper info and drawable -->
+	<item type="drawable" name="theme_wallpaper_pacleggers">@drawable/wallpaper_pacleggers</item>
+	<item type="drawable" name="theme_wallpaper_thumbnail_pacleggers">@drawable/wallpaper_pacleggers</item>
+	<string name="theme_wallpaper_title_pacleggers">Pacleggers april fools inspired wallpaper</string>
+	<string name="theme_wallpaper_attribution_pacleggers">Made by 𝙉𝙀𝙍𝙊 "ネロ"</string>
+
 	<!-- Solarized Theme -->
 	<string name="theme_name_solarized">Solarized</string>
 	<string name="theme_title_solarized">@string/theme_name_solarized</string>

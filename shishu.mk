@@ -9,6 +9,7 @@ PRODUCT_PACKAGES += \
     FrenchBleu \
     Stock \
     NexodusCold \
+    PacleggersWarmth \
     ManiaAmber \
     DrownedAquaBlue \
     DreamyPurple \
@@ -102,6 +103,9 @@ PRODUCT_PACKAGES += \
     OneMonoThemeAndroidOverlay \
     OneMonoThemeSettingsOverlay \
     OneMonoThemeSystemUIOverlay \
+    PacleggersThemeAndroidOverlay \
+    PacleggersThemeSettingsOverlay \
+    PacleggersThemeSystemUIOverlay \
     PisselThemeAndroidOverlay \
     PisselThemeSettingsOverlay \
     PisselThemeSystemUIOverlay \
