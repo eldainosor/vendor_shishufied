@@ -4,11 +4,6 @@ include $(CLEAR_VARS)
 LOCAL_MODULE_TAGS := optional
 
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res
-ifeq ($(BOOTLEGGERS_NOTCHED),true)
-LOCAL_RESOURCE_DIR += $(LOCAL_PATH)/res-wallpaper-long
-else
-LOCAL_RESOURCE_DIR += $(LOCAL_PATH)/res-wallpaper
-endif
 
 LOCAL_AAPT_FLAGS := --auto-add-overlay
 

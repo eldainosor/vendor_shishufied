@@ -35,11 +35,6 @@
 	<string name="theme_overlay_icon_settings_aosp">com.android.theme.icon_pack.rounded.settings</string>
 	<string name="theme_overlay_icon_sysui_aosp">com.android.theme.icon_pack.rounded.systemui</string>
 	<string name="theme_overlay_shape_aosp">com.android.theme.icon.square</string>
-	<!-- Special Strings for wallpaper info and drawable -->
-	<item type="drawable" name="theme_wallpaper_aosp">@drawable/wallpaper_aosp</item>
-	<item type="drawable" name="theme_wallpaper_thumbnail_aosp">@drawable/wallpaper_aosp</item>
-	<string name="theme_wallpaper_title_aosp">AOSP wallpaper</string>
-	<string name="theme_wallpaper_attribution_aosp">Made by The Android Open Source Project, with some branding.</string>
 
 	<!-- Pissel Theme -->
 	<string name="theme_name_pissel">Pixel</string>
@@ -54,11 +49,6 @@
 	<string name="theme_overlay_icon_settings_pissel">com.android.theme.icon_pack.rounded.settings</string>
 	<string name="theme_overlay_icon_sysui_pissel">com.android.theme.icon_pack.rounded.systemui</string>
 	<string name="theme_overlay_shape_pissel">com.android.theme.icon.circle</string>
-	<!-- Special Strings for wallpaper info and drawable -->
-	<item type="drawable" name="theme_wallpaper_pissel">@drawable/wallpaper_pissel</item>
-	<item type="drawable" name="theme_wallpaper_thumbnail_pissel">@drawable/wallpaper_pissel</item>
-	<string name="theme_wallpaper_title_pissel">Pixel wallpaper</string>
-	<string name="theme_wallpaper_attribution_pissel">Made by Google, with some branding.</string>
 
 	<!-- Pacleggers Theme -->
 	<string name="theme_name_pacleggers">PACLEGGERS</string>
@@ -73,11 +63,6 @@
 	<string name="theme_overlay_icon_settings_pacleggers">com.android.theme.icon_pack.rounded.settings</string>
 	<string name="theme_overlay_icon_sysui_pacleggers">com.android.theme.icon_pack.rounded.systemui</string>
 	<string name="theme_overlay_shape_pacleggers">com.android.theme.icon.leaf</string>
-	<!-- Special Strings for wallpaper info and drawable -->
-	<item type="drawable" name="theme_wallpaper_pacleggers">@drawable/wallpaper_pacleggers</item>
-	<item type="drawable" name="theme_wallpaper_thumbnail_pacleggers">@drawable/wallpaper_pacleggers</item>
-	<string name="theme_wallpaper_title_pacleggers">Pacleggers april fools inspired wallpaper</string>
-	<string name="theme_wallpaper_attribution_pacleggers">Made by 𝙉𝙀𝙍𝙊 "ネロ"</string>
 
 	<!-- Solarized Theme -->
 	<string name="theme_name_solarized">Solarized</string>
@@ -92,11 +77,6 @@
 	<string name="theme_overlay_icon_settings_solarized">com.android.theme.icon_pack.rounded.settings</string>
 	<string name="theme_overlay_icon_sysui_solarized">com.android.theme.icon_pack.rounded.systemui</string>
 	<string name="theme_overlay_shape_solarized">com.android.theme.icon.circle</string>
-	<!-- Special Strings for wallpaper info and drawable -->
-	<item type="drawable" name="theme_wallpaper_solarized">@drawable/wallpaper_solarized</item>
-	<item type="drawable" name="theme_wallpaper_thumbnail_solarized">@drawable/wallpaper_solarized</item>
-	<string name="theme_wallpaper_title_solarized">Solarized wallpaper</string>
-	<string name="theme_wallpaper_attribution_solarized">Made by ElDainosor</string>
 
   <!-- Shishu Dreams -->
 	<string name="theme_name_shishudreams">Shishu Dreams</string>
@@ -111,11 +91,6 @@
 	<string name="theme_overlay_icon_settings_shishudreams">com.android.theme.icon_pack.rounded.settings</string>
 	<string name="theme_overlay_icon_sysui_shishudreams">com.android.theme.icon_pack.rounded.systemui</string>
 	<string name="theme_overlay_shape_shishudreams">com.android.theme.icon.circle</string>
-	<!-- Special Strings for wallpaper info and drawable -->
-	<item type="drawable" name="theme_wallpaper_shishudreams">@drawable/wallpaper_shishu_dreams</item>
-	<item type="drawable" name="theme_wallpaper_thumbnail_shishudreams">@drawable/wallpaper_shishu_dreams</item>
-	<string name="theme_wallpaper_title_shishudreams">Shishu Dreams wallpaper</string>
-	<string name="theme_wallpaper_attribution_shishudreams">Made by Snowan </string>
 
   <!-- Shishu Nights -->
 	<string name="theme_name_shishunights">Shishu Nights</string>
@@ -130,11 +105,6 @@
 	<string name="theme_overlay_icon_settings_shishunights">com.android.theme.icon_pack.rounded.settings</string>
 	<string name="theme_overlay_icon_sysui_shishunights">com.android.theme.icon_pack.rounded.systemui</string>
 	<string name="theme_overlay_shape_shishunights">com.android.theme.icon.squircle</string>
-	<!-- Special Strings for wallpaper info and drawable -->
-	<item type="drawable" name="theme_wallpaper_shishunights">@drawable/wallpaper_shishu_nights</item>
-	<item type="drawable" name="theme_wallpaper_thumbnail_shishunights">@drawable/wallpaper_shishu_nights</item>
-	<string name="theme_wallpaper_title_shishunights">Shishu Nights wallpaper</string>
-	<string name="theme_wallpaper_attribution_shishunights">Made by Cortezz </string>
 
   <!-- Shishu Illusions -->
 	<string name="theme_name_shishuillusions">Shishu Illusions</string>
@@ -149,11 +119,6 @@
 	<string name="theme_overlay_icon_settings_shishuillusions">com.android.theme.icon_pack.rounded.settings</string>
 	<string name="theme_overlay_icon_sysui_shishuillusions">com.android.theme.icon_pack.rounded.systemui</string>
 	<string name="theme_overlay_shape_shishuillusions">com.android.theme.icon.circle</string>
-	<!-- Special Strings for wallpaper info and drawable -->
-	<item type="drawable" name="theme_wallpaper_shishuillusions">@drawable/wallpaper_shishu_illusions</item>
-	<item type="drawable" name="theme_wallpaper_thumbnail_shishuillusions">@drawable/wallpaper_shishu_illusions</item>
-	<string name="theme_wallpaper_title_shishuillusions">Shishu Illusions wallpaper</string>
-	<string name="theme_wallpaper_attribution_shishuillusions">Made by 𝙉𝙀𝙍𝙊 "ネロ" </string>
 
   <!-- Shishu Immensity -->
 	<string name="theme_name_shishuimmensity">Shishu Immensity</string>
@@ -168,11 +133,6 @@
 	<string name="theme_overlay_icon_settings_shishuimmensity">com.android.theme.icon_pack.rounded.settings</string>
 	<string name="theme_overlay_icon_sysui_shishuimmensity">com.android.theme.icon_pack.rounded.systemui</string>
 	<string name="theme_overlay_shape_shishuimmensity">com.android.theme.icon.circle</string>
-	<!-- Special Strings for wallpaper info and drawable -->
-	<item type="drawable" name="theme_wallpaper_shishuimmensity">@drawable/wallpaper_shishu_immensity</item>
-	<item type="drawable" name="theme_wallpaper_thumbnail_shishuimmensity">@drawable/wallpaper_shishu_immensity</item>
-	<string name="theme_wallpaper_title_shishuimmensity">Shishu Immensity wallpaper</string>
-	<string name="theme_wallpaper_attribution_shishuimmensity">Made by h e n r i q u e </string>
 
   <!-- Shishu Amalgamation -->
 	<string name="theme_name_shishuamalgamation">Shishu Amalgamation</string>
@@ -187,10 +147,5 @@
 	<string name="theme_overlay_icon_settings_shishuamalgamation">com.android.theme.icon_pack.rounded.settings</string>
 	<string name="theme_overlay_icon_sysui_shishuamalgamation">com.android.theme.icon_pack.rounded.systemui</string>
 	<string name="theme_overlay_shape_shishuamalgamation">com.android.theme.icon.roundedrect</string>
-	<!-- Special Strings for wallpaper info and drawable -->
-	<item type="drawable" name="theme_wallpaper_shishuamalgamation">@drawable/wallpaper_shishu_amalgamation</item>
-	<item type="drawable" name="theme_wallpaper_thumbnail_shishuamalgamation">@drawable/wallpaper_shishu_amalgamation</item>
-	<string name="theme_wallpaper_title_shishuamalgamation">Shishu Dreams wallpaper</string>
-	<string name="theme_wallpaper_attribution_shishuamalgamation">Made by Snowan </string>
 
 </resources>
