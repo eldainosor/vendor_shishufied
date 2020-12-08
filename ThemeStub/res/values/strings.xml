@@ -76,7 +76,7 @@
 	<string name="theme_overlay_icon_launcher_solarized">com.android.theme.icon_pack.rounded.launcher</string> 
 	<string name="theme_overlay_icon_settings_solarized">com.android.theme.icon_pack.rounded.settings</string>
 	<string name="theme_overlay_icon_sysui_solarized">com.android.theme.icon_pack.rounded.systemui</string>
-	<string name="theme_overlay_shape_solarized">com.android.theme.icon.circle</string>
+	<string name="theme_overlay_shape_solarized">com.android.theme.icon.square</string>
 
   <!-- Shishu Dreams -->
 	<string name="theme_name_shishudreams">Shishu Dreams</string>
