@@ -34,7 +34,7 @@
 	<string name="theme_overlay_icon_launcher_aosp">com.android.theme.icon_pack.rounded.launcher</string> 
 	<string name="theme_overlay_icon_settings_aosp">com.android.theme.icon_pack.rounded.settings</string>
 	<string name="theme_overlay_icon_sysui_aosp">com.android.theme.icon_pack.rounded.systemui</string>
-	<string name="theme_overlay_shape_aosp">com.android.theme.icon.square</string>
+	<string name="theme_overlay_shape_aosp">com.android.theme.icon.roundedrect</string>
 
 	<!-- Pissel Theme -->
 	<string name="theme_name_pissel">Pixel</string>
