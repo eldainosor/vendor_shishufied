@@ -18,4 +18,7 @@
     <color name="primary_material_settings">@*android:color/background_material_dark</color>
     <color name="primary_dark_material_dark">@*android:color/background_material_dark</color>
     <color name="primary_dark_material_settings">@*android:color/background_material_dark</color>
+    <!-- Tint the notif icons and name -->
+    <color name="notification_text_default_color">@*android:color/bootleg_accent_gradient_end_color</color>
+    <color name="notification_icon_default_color">@*android:color/bootleg_accent_gradient_end_color</color>
 </resources>

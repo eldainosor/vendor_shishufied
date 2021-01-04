@@ -16,12 +16,6 @@
   -->
 
 <resources>
-    <dimen name="config_dialogCornerRadius">16.0dip</dimen>
-    <dimen name="config_buttonCornerRadius">24.0dip</dimen>
-    <dimen name="config_progressBarCornerRadius">1000.0dip</dimen>
-    <dimen name="config_bottomDialogCornerRadius">28.0dip</dimen>
-    <bool name="config_buttonTextAllCaps">true</bool>
-    <item name="config_buttonTextLetterSpacing" format="float" type="dimen">0.10</item>
     <!-- True if the notifications should dynamically tint the app icon and app title -->
     <bool name="config_allowNotificationIconTextTinting">false</bool>
     <!-- True if the notifications should tint the app name with the dynamic or the accent color -->
