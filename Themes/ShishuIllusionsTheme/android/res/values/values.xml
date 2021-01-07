@@ -31,4 +31,16 @@
         <!-- volume background -->
         <item name="*android:panelColorBackground">@*android:color/primary_material_light</item>
     </style>
+
+    <!-- Overlays for notification app name -->
+    <style name="TextAppearance.DeviceDefault.Notification.Conversation.AppName" parent="@*android:style/TextAppearance.Material.Notification.Conversation.AppName">
+        <item name="*android:fontFamily">@*android:string/config_headlineFontFamilyMedium</item>
+        <item name="*android:letterSpacing">0.02</item>
+        <item name="*android:textAllCaps">true</item>
+    </style>
+    <style name="TextAppearance.DeviceDefault.Notification.Info" parent="@*android:style/TextAppearance.Material.Notification.Info">
+        <item name="*android:fontFamily">@*android:string/config_bodyFontFamily</item>
+        <item name="*android:letterSpacing">0.02</item>
+        <item name="*android:textAllCaps">true</item>
+    </style>
 </resources>
