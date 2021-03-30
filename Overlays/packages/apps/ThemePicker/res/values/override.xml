@@ -24,7 +24,7 @@
     <array name="icon_shape_preview_packages">
         <item>com.android.settings</item>
         <item>com.google.android.deskclock</item>
-        <item>us.koller.cameraroll</item>
+        <item>com.alensw.PicFolder</item>
         <item>com.android.launcher3</item>
         <item>com.mixplorer</item>
         <item>com.bootleggers.shishufied</item>
