@@ -36,7 +36,7 @@ PRODUCT_PACKAGES += \
     SakuraPink
 
 # Adding extras to our needs related to ThemePicker
-DEVICE_PACKAGE_OVERLAYS += \
+PRODUCT_PACKAGE_OVERLAYS += \
     packages/overlays/Shishufied/Overlays
 
 PRODUCT_PACKAGES += \
@@ -124,6 +124,6 @@ PRODUCT_PACKAGES += \
 
 # Overlays for Shishufied devices
 ifeq ($(BOOTLEGGERS_BUILD_TYPE),Shishufied)
-    DEVICE_PACKAGE_OVERLAYS += \
+    PRODUCT_PACKAGE_OVERLAYS += \
     packages/overlays/Shishufied/ShishufiedOverlays
 endif
