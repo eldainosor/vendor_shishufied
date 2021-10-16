@@ -90,38 +90,6 @@ PRODUCT_PACKAGES += \
     ShishuAmalgamationThemeSettingsOverlay \
     ShishuAmalgamationThemeSystemUIOverlay
 
-# QS header styles
-#PRODUCT_PACKAGES += \
-#    QSHeaderBlack \
-#    QSHeaderGrey \
-#    QSHeaderLightGrey \
-#    QSHeaderAccent \
-#    QSHeaderTransparent
-
-# QS Tile Styles packages
-#PRODUCT_PACKAGES += \
-#    QSTileDualTone \
-#    QSTileTrim \
-#    QSTileDualToneTrim \
-#    QSTileMonoGradient \
-#    QSTileInkdrop \
-#    QSTileIconAccent \
-#    QSTileShishuNights \
-#    QSTileMemedoSquare \
-#    QSTileWavey \
-#    QSTileAttemptMountain \
-#    QSTileDottedCircle \
-#    QSTileNinja \
-#    QSTileShishuInk \
-#    QSTileCookie \
-#    QSTileCosmos \
-#    QSTileDividedCircle \
-#    QSTileNeonLight \
-#    QSTileOxygen \
-#    QSTileTriangles \
-#    QSTileGradient \
-#    QSTilePureAccent
-
 # Overlays for Shishufied devices
 ifeq ($(BOOTLEGGERS_BUILD_TYPE),Shishufied)
     PRODUCT_PACKAGE_OVERLAYS += \
