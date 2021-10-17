@@ -17,4 +17,8 @@
     <color name="material_blue_500">@*android:color/accent_device_default</color>
     <color name="material_blue_700">@*android:color/accent_device_default</color>
 
+    <!-- Face and fingerprint enrollment -->
+    <color name="biometric_enroll_intro_color_bar">@*android:color/accent_secondary_device_default</color>
+    <color name="biometric_enroll_intro_color_icon">@*android:color/accent_device_default</color>
+
 </resources>
