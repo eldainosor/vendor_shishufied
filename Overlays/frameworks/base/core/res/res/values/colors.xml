@@ -29,4 +29,7 @@
     <color name="chooser_chip_icon">@*android:color/accent_device_default</color> <!-- Blue 300 -->
     <color name="personal_apps_suspension_notification_color">@*android:color/accent_device_default</color>
     <color name="user_icon_1">@*android:color/accent_device_default</color>
+
+    <!-- Surface colors -->
+    <color name="surface_highlight_light">@android:color/system_neutral1_10</color>
 </resources>
