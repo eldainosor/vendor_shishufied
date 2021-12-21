@@ -365,3 +365,9 @@ ifeq ($(BOOTLEGGERS_BUILD_LOCK_CLOCK_FONT_OVERLAYS),true)
         ClockFontRubikGlitchOverlay \
         ClockFontTourneyMediumOverlay
 endif
+
+# UDFPS Animations
+ifeq ($(BOOTLEGGERS_UDFPS_ANIMATIONS),true)
+PRODUCT_PACKAGES += \
+    UdfpsResources
+endif
