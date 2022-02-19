@@ -76,10 +76,14 @@ PRODUCT_PACKAGES += \
 
 # Navbar
 PRODUCT_PACKAGES += \
+    NavbarAndroidOverlay \
     NavbarAsusOverlay \
+    NavbarMotoOverlay \
+    NavbarNexusOverlay \
+    NavbarOldOverlay \
     NavbarOnePlusOverlay \
     NavbarOneUiOverlay \
-    NavbarStockOverlay \
+    NavbarSammyOverlay \
     NavbarTecnoCamonOverlay
 
 # Theme-Required overlays packages
