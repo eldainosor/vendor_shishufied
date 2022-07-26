@@ -8,6 +8,24 @@ PRODUCT_PACKAGES += \
 	Shishufied \
     SimIcons
 
+# Icon Shapes
+PRODUCT_PACKAGES += \
+    IconShapeCloudyOverlay \
+    IconShapeCylinderOverlay \
+    IconShapeFlowerOverlay \
+    IconShapeHeartOverlay \
+    IconShapeHexagonOverlay \
+    IconShapeLeafOverlay \
+    IconShapePebbleOverlay \
+    IconShapeRoundedHexagonOverlay \
+    IconShapeRoundedRectOverlay \
+    IconShapeSquareOverlay \
+    IconShapeSquircleOverlay \
+    IconShapeStretchedOverlay \
+    IconShapeTaperedRectOverlay \
+    IconShapeTeardropOverlay \
+    IconShapeVesselOverlay
+
 # Theme-Required overlays packages
 # PRODUCT_PACKAGES += \
 #     AOSPThemeAndroidOverlay \
