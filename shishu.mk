@@ -41,8 +41,7 @@ PRODUCT_PACKAGE_OVERLAYS += \
 
 PRODUCT_PACKAGES += \
 	Shishufied \
-    SimIcons \
-    ShishufiedWalls
+    SimIcons
 
 # Theme-Required overlays packages
 # PRODUCT_PACKAGES += \
