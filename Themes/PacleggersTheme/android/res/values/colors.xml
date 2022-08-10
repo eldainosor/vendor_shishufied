@@ -1,24 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<resources>
-    <!-- Light values -->
-    <color name="background_material_light">#FFE9E7F4</color>
-    <color name="background_floating_material_light">@*android:color/background_material_light</color>
-    <color name="primary_material_light">@*android:color/background_material_light</color>
-    <!-- Workaround for light themed settings background -->
-    <color name="primary_material_settings_light">@*android:color/background_material_light</color>
-    <color name="primary_dark_material_light">@*android:color/background_material_light</color>
-    <color name="primary_dark_material_settings_light">@*android:color/background_material_light</color>
-    <!-- The background color of a notification card. -->
-    <color name="notification_material_background_color">@*android:color/background_material_light</color>
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2018 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License
+  -->
 
-    <!-- Dark values -->
-    <color name="background_material_dark">#FF1F2127</color>
-    <color name="background_floating_material_dark">@*android:color/background_material_dark</color>
-    <color name="primary_material_dark">@*android:color/background_material_dark</color>
-    <color name="primary_material_settings">@*android:color/background_material_dark</color>
-    <color name="primary_dark_material_dark">@*android:color/background_material_dark</color>
-    <color name="primary_dark_material_settings">@*android:color/background_material_dark</color>
-    <!-- Tint the notif icons and name -->
-    <color name="notification_text_default_color">@*android:color/bootleg_accent_gradient_end_color</color>
-    <color name="notification_icon_default_color">@*android:color/bootleg_accent_gradient_end_color</color>
+<resources>
+    <color name="system_neutral1_0">#87858e</color>
+    <color name="system_neutral1_10">#87858e</color>
+    <color name="system_neutral1_50">#b8b6c1</color>
+    <color name="system_neutral1_100">#b8b6c1</color>
+    <color name="system_neutral1_200">#97a1bf</color>
+    <color name="system_neutral1_300">#97a1bf</color>
+    <color name="system_neutral1_400">#87858e</color>
+    <color name="system_neutral1_500">#798199</color>
+    <color name="system_neutral1_600">#5b6173</color>
+    <color name="system_neutral1_700">#3d414d</color>
+    <color name="system_neutral1_800">#3d414d</color>
+    <color name="system_neutral1_900">#1f2127</color>
+    <color name="system_neutral1_1000">#1f2127</color>
+
+    <color name="system_neutral2_0">#87858e</color>
+    <color name="system_neutral2_10">#87858e</color>
+    <color name="system_neutral2_50">#b8b6c1</color>
+    <color name="system_neutral2_100">#b8b6c1</color>
+    <color name="system_neutral2_200">#97a1bf</color>
+    <color name="system_neutral2_300">#97a1bf</color>
+    <color name="system_neutral2_400">#87858e</color>
+    <color name="system_neutral2_500">#798199</color>
+    <color name="system_neutral2_600">#5b6173</color>
+    <color name="system_neutral2_700">#3d414d</color>
+    <color name="system_neutral2_800">#3d414d</color>
+    <color name="system_neutral2_900">#1f2127</color>
+    <color name="system_neutral2_1000">#1f2127</color>
 </resources>

@@ -88,47 +88,33 @@ PRODUCT_PACKAGES += \
 
 # Theme-Required overlays packages
 PRODUCT_PACKAGES += \
-#     AOSPThemeAndroidOverlay \
-#     AOSPThemeSettingsOverlay \
-#     AOSPThemeSystemUIOverlay \
-      BlackThemeAndroidOverlay \
-#     LayanDarkenedThemeAndroidOverlay \
-#     LayanDarkenedThemeSettingsOverlay \
-#     LayanDarkenedThemeSystemUIOverlay \
-#     NexodusThemeAndroidOverlay \
-#     NexodusThemeSettingsOverlay \
-#     NexodusThemeSystemUIOverlay \
-#     OneMonoThemeAndroidOverlay \
-#     OneMonoThemeSettingsOverlay \
-#     OneMonoThemeSystemUIOverlay \
-#     PacleggersThemeAndroidOverlay \
-#     PacleggersThemeSettingsOverlay \
-#     PacleggersThemeSystemUIOverlay \
-#     PisselThemeAndroidOverlay \
-#     PisselThemeSettingsOverlay \
-#     PisselThemeSystemUIOverlay \
-#     SolarizedThemeAndroidOverlay \
-#     SolarizedThemeSettingsOverlay \
-#     SolarizedThemeSystemUIOverlay \
-#     ShishuIllusionsThemeAndroidOverlay \
-#     ShishuIllusionsThemeGMSOverlay \
-#     ShishuIllusionsThemeSettingsOverlay \
-#     ShishuIllusionsThemeSystemUIOverlay \
-#     ShishuIllusionsThemeWellbeingUIOverlay \
-#     ShishuImmensityThemeAndroidOverlay \
-#     ShishuImmensityThemeGMSOverlay \
-#     ShishuImmensityThemeSettingsOverlay \
-#     ShishuImmensityThemeSystemUIOverlay \
-#     ShishuImmensityThemeWellbeingOverlay \
-#     ShishuThemeAndroidOverlay \
-#     ShishuThemeSettingsOverlay \
-#     ShishuThemeSystemUIOverlay \
-#     ShishuNightsThemeAndroidOverlay \
-#     ShishuNightsThemeSettingsOverlay \
-#     ShishuNightsThemeSystemUIOverlay \
-#     ShishuAmalgamationThemeAndroidOverlay \
-#     ShishuAmalgamationThemeSettingsOverlay \
-#     ShishuAmalgamationThemeSystemUIOverlay
+    UnmonetThemeAndroidOverlay \
+    UnmonetThemeSettingsOverlay \
+    BlackThemeAndroidOverlay \
+    NexodusThemeAndroidOverlay \
+    NexodusThemeSettingsOverlay \
+    NexodusThemeSystemUIOverlay \
+    PacleggersThemeAndroidOverlay \
+    PacleggersThemeSettingsOverlay \
+    PacleggersThemeSystemUIOverlay \
+    SolarizedThemeAndroidOverlay \
+    SolarizedThemeSettingsOverlay \
+    SolarizedThemeSystemUIOverlay \
+    ShishuIllusionsThemeAndroidOverlay \
+    ShishuIllusionsThemeSettingsOverlay \
+    ShishuIllusionsThemeSystemUIOverlay \
+    ShishuImmensityThemeAndroidOverlay \
+    ShishuImmensityThemeSettingsOverlay \
+    ShishuImmensityThemeSystemUIOverlay \
+    ShishuThemeAndroidOverlay \
+    ShishuThemeSettingsOverlay \
+    ShishuThemeSystemUIOverlay \
+    ShishuNightsThemeAndroidOverlay \
+    ShishuNightsThemeSettingsOverlay \
+    ShishuNightsThemeSystemUIOverlay \
+    ShishuAmalgamationThemeAndroidOverlay \
+    ShishuAmalgamationThemeSettingsOverlay \
+    ShishuAmalgamationThemeSystemUIOverlay
 
 # Overlays for Shishufied devices
 ifeq ($(BOOTLEGGERS_BUILD_TYPE),Shishufied)

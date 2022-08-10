@@ -20,17 +20,14 @@
     <style name="Widget.DeviceDefault.ActionBar" parent="*android:Widget.Material.ActionBar">
         <item name="android:titleTextStyle">@*android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Title</item>
         <item name="android:subtitleTextStyle">@*android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Subtitle</item>
-        <item name="android:background">@*android:drawable/box</item>
     </style>
 
   <style name="TextAppearance.DeviceDefault.Widget.ActionBar.Title" parent="*android:TextAppearance.Material.Widget.ActionBar.Title">
-    <item name="android:fontFamily">@*android:string/config_bodyFontFamilyMedium</item>
     <item name="android:textAllCaps">true</item>
     <item name="android:letterSpacing">0.10</item>
   </style>
 
   <style name="TextAppearance.DeviceDefault.Widget.ActionBar.Title.Inverse" parent="*android:TextAppearance.Material.Widget.ActionBar.Title.Inverse">
-    <item name="android:fontFamily">@*android:string/config_bodyFontFamilyMedium</item>
     <item name="android:textAllCaps">true</item>
     <item name="android:letterSpacing">0.10</item>
   </style>

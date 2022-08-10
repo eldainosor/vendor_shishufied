@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<resources>
-    <!-- The background color of a notification card. -->
-    <color name="notification_material_background_color">@*android:color/background_material_dark</color>
-    <!-- Tint the notif icons and name -->
-    <color name="notification_text_default_color">@*android:color/notification_primary_text_color_dark</color>
-    <color name="notification_icon_default_color">@*android:color/notification_primary_text_color_dark</color>
-</resources>

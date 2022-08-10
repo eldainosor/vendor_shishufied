@@ -9,7 +9,7 @@
     <!-- Workaround BG -->
     <path
         android:pathData="M0 0l720 0 0 1280 -720 0z"
-        android:fillColor="@*android:color/background_material_light" />
+        android:fillColor="@*android:color/system_neutral1_10" />
 
     <!-- Front lines -->
     <path

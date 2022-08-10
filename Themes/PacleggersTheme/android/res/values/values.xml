@@ -16,28 +16,10 @@
   -->
 
 <resources>
-    <style name="Theme.DeviceDefault.QuickSettings" parent="android:Theme.DeviceDefault.Light">
-
-	<!-- Color palette -->
-        <item name="*android:colorPrimaryDark">@*android:color/primary_material_light</item>
-        <item name="*android:colorSecondary">@*android:color/primary_dark_material_light</item>
-        <item name="*android:alertDialogTheme">@*android:style/Theme.DeviceDefault.Light.Dialog.Alert</item>
-
-        <!-- QS panel background -->
-        <item name="*android:colorBackgroundFloating">@*android:color/primary_material_light</item>
-
-        <!-- volume background -->
-        <item name="*android:panelColorBackground">@*android:color/primary_material_light</item>
-    </style>
 
     <!-- Overlays for notification app name -->
-    <style name="TextAppearance.DeviceDefault.Notification.Conversation.AppName" parent="@*android:style/TextAppearance.Material.Notification.Conversation.AppName">
-        <item name="*android:fontFamily">@*android:string/config_headlineFontFamilyMedium</item>
-        <item name="*android:letterSpacing">0.06</item>
-        <item name="*android:textAllCaps">true</item>
-    </style>
     <style name="TextAppearance.DeviceDefault.Notification.Info" parent="@*android:style/TextAppearance.Material.Notification.Info">
-        <item name="*android:fontFamily">@*android:string/config_bodyFontFamily</item>
+        <item name="*android:fontFamily">@*android:string/config_headlineFontFamilyMedium</item>
         <item name="*android:letterSpacing">0.06</item>
         <item name="*android:textAllCaps">true</item>
     </style>
