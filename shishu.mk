@@ -87,13 +87,11 @@ PRODUCT_PACKAGES += \
     NavbarTecnoCamonOverlay
 
 # Theme-Required overlays packages
-# PRODUCT_PACKAGES += \
+PRODUCT_PACKAGES += \
 #     AOSPThemeAndroidOverlay \
 #     AOSPThemeSettingsOverlay \
 #     AOSPThemeSystemUIOverlay \
-#     BlackThemeAndroidOverlay \
-#     BlackThemeSettingsOverlay \
-#     BlackThemeSystemUIOverlay \
+      BlackThemeAndroidOverlay \
 #     LayanDarkenedThemeAndroidOverlay \
 #     LayanDarkenedThemeSettingsOverlay \
 #     LayanDarkenedThemeSystemUIOverlay \
