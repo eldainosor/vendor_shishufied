@@ -1,39 +1,4 @@
- ## Overlay makefile for building styles, themes and accents
-# Color required overlays packages
-PRODUCT_PACKAGES += \
-    NotImpPurple \
-    Holillusion \
-    MoveMint \
-    AlmostProBlue \
-    BubblegumPink \
-    FrenchBleu \
-    Stock \
-    NexodusCold \
-    PacleggersWarmth \
-    ManiaAmber \
-    DrownedAquaBlue \
-    DreamyPurple \
-    SpookedPurple \
-    MisleadingRed \
-    FSRGrey \
-    HeirloomBleu \
-    ColdBleu \
-    DuskPurple \
-    PisselBlue \
-    SimilarDawnRed \
-    SpoofyGreen \
-    NewHouseOrange \
-    LimedGreen \
-    UiGradientsDIMIGO \
-    CelestialPurple \
-    DematerializedOrange \
-    EmotionlessBlue \
-    FuzzyTideBlue \
-    GoldenGold \
-    MeltedBrainRed \
-    OuttaTouchCyan \
-    FarewellDreamFlight \
-    SakuraPink
+ ## Overlay makefile for building styles, themes and dreams
 
 # Adding extras to our needs related to ThemePicker
 PRODUCT_PACKAGE_OVERLAYS += \
