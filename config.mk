@@ -22,10 +22,10 @@ endif
 BOOTLEGGERS_IS_LARGE_DEVICE ?= true
 ifeq ($(BOOTLEGGERS_IS_LARGE_DEVICE),true)
     PRODUCT_PACKAGE_OVERLAYS += \
-        vendor/shishufied/overlay/wallpaper/largelads
+        vendor/shishufied/overlays/wallpaper/largelads
 else
     PRODUCT_PACKAGE_OVERLAYS += \
-        vendor/shishufied/overlay/wallpaper/common
+        vendor/shishufied/overlays/wallpaper/common
 endif
 
 
