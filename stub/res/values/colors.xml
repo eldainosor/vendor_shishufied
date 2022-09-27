@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary_default">#ffffffff</color>
+	<color name="color_primary_movemint">#ff46ff99</color>
+    <color name="color_primary_yorusakura">#fffbb0ff</color>
+    <color name="color_primary_quetzalgold">#ffDCAE4B</color>
+    <!-- Test -->
+    <color name="color_secondary_default">#ffffffff</color>
+    <color name="color_secondary_movemint">#ff46ff99</color>
+    <color name="color_secondary_yorusakura">#fffbb0ff</color>
+    <color name="color_secondary_quetzalgold">#ffDCAE4B</color>
+</resources>
