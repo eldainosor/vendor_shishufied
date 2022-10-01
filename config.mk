@@ -295,6 +295,9 @@ ifeq ($(BOOTLEGGERS_BUILD_UI_STYLE_OVERLAYS),true)
         NexodusThemeAndroidOverlay \
         NexodusThemeSettingsOverlay \
         NexodusThemeSystemUIOverlay \
+        ProjectOptronicThemeAndroidOverlay \
+        ProjectOptronicThemeSettingsOverlay \
+        ProjectOptronicThemeSystemUIOverlay \
         PacleggersThemeAndroidOverlay \
         PacleggersThemeSettingsOverlay \
         PacleggersThemeSystemUIOverlay \
