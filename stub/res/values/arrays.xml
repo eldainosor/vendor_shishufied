@@ -2,8 +2,20 @@
 <resources>
     <array name="color_bundles">
         <item>default</item>
-        <item>movemint</item>
-        <item>yorusakura</item>
+        <item>almared</item>
+        <item>pipkinpink</item>
         <item>quetzalgold</item>
+        <item>movemint</item>
+        <item>holillusion</item>
+        <item>maniamber</item>
+        <item>meltedbrainred</item>
+        <item>dimigopink</item>
+        <item>spookedpurple</item>
+        <item>pacleggerswarmth</item>
+        <item>nexoduscold</item>
+        <item>quetzal1</item>
+        <item>quetzal2</item>
+        <item>quetzal3</item>
+        <item>quetzal4</item>
     </array>
 </resources>
