@@ -10,5 +10,6 @@ LOCAL_AAPT_FLAGS := --auto-add-overlay
 LOCAL_PACKAGE_NAME := ShishufiedStub
 LOCAL_SDK_VERSION := current
 LOCAL_CERTIFICATE := platform
+LOCAL_OVERRIDES_PACKAGES := ThemesStub
 LOCAL_PRIVILEGED_MODULE := false
 include $(BUILD_PACKAGE)
