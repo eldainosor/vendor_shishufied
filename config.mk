@@ -159,46 +159,46 @@ ifeq ($(BOOTLEGGERS_BUILD_FONT_OVERLAYS),true)
 
         # Fonts required overlays packages
         PRODUCT_PACKAGES += \
-            FontAuthenticSans \
-            FontBigNoodle \
-            FontBikoHanken \
-            FontComicNeue \
-            FontDecalotype \
-            FontExo2 \
-            FontFantasqueSansMono \
-            FontFleuron \
-            FontFinlandica \
-            FontGoogleSans \
-            FontGothamono \
-            FontGravity \
-            FontIgnazioText \
-            FontInter \
-            FontJakartaPlus \
-            FontLeagueMonoNarrow \
-            FontLeonSans \
-            FontLumie \
-            FontMescla \
-            FontMilimetre \
-            FontMittelschrift \
-            FontNow \
-            FontOdibee \
-            FontOpenSauce \
-            FontPanamericana \
-            FontPissel \
-            FontPTSansMono \
-            FontQTVagaround \
-            FontReemKufi \
-            FontRoboto \
-            FontRouterGothicNarrow \
-            FontRoutedGothicRobotoCondensed \
-            FontScientifica \
-            FontSofiaSans \
-            FontSofiaSansSemiCondensed \
-            FontUniversalisCond \
-            FontUniversalisReg \
-            FontVG5000 \
-            FontVladivostok \
-            FontVolte
+            FontAuthenticSansOverlay \
+            FontBigNoodleOverlay \
+            FontBikoHankenOverlay \
+            FontComicNeueOverlay \
+            FontDecalotypeOverlay \
+            FontExo2Overlay \
+            FontFantasqueSansMonoOverlay \
+            FontFleuronOverlay \
+            FontFinlandicaOverlay \
+            FontGoogleSansOverlay \
+            FontGothamonoOverlay \
+            FontGravityOverlay \
+            FontIgnazioTextOverlay \
+            FontInterOverlay \
+            FontJakartaPlusOverlay \
+            FontLeagueMonoNarrowOverlay \
+            FontLeonSansOverlay \
+            FontLumieOverlay \
+            FontMesclaOverlay \
+            FontMilimetreOverlay \
+            FontMittelschriftOverlay \
+            FontNowOverlay \
+            FontOdibeeOverlay \
+            FontOpenSauceOverlay \
+            FontPanamericanaOverlay \
+            FontPisselOverlay \
+            FontPTSansMonoOverlay \
+            FontQTVagaroundOverlay \
+            FontReemKufiOverlay \
+            FontRobotoOverlay \
+            FontRouterGothicNarrowOverlay \
+            FontRoutedGothicRobotoCondensedOverlay \
+            FontScientificaOverlay \
+            FontSofiaSansOverlay \
+            FontSofiaSansSemiCondensedOverlay \
+            FontUniversalisCondOverlay \
+            FontUniversalisRegOverlay \
+            FontVG5000Overlay \
+            FontVladivostokOverlay \
+            FontVolteOverlay
     endif
 endif
 
