@@ -36,6 +36,7 @@ BOOTLEGGERS_BUILD_ICON_SHAPE_OVERLAYS ?= true
 BOOTLEGGERS_BUILD_ICON_PACK_OVERLAYS ?= true
 BOOTLEGGERS_BUILD_NAVBAR_OVERLAYS ?= true
 BOOTLEGGERS_BUILD_UI_STYLE_OVERLAYS ?= true
+BOOTLEGGERS_BUILD_LOCK_CLOCK_FONT_OVERLAYS ?= true
 
 ifeq ($(BOOTLEGGERS_BUILD_FONT_OVERLAYS),true) 
     ifeq ($(BOOTLEGGERS_USE_FONT_ENGINE),true) 
@@ -202,6 +203,7 @@ ifeq ($(BOOTLEGGERS_BUILD_FONT_OVERLAYS),true)
     endif
 endif
 
+
 # Icon Shapes
 ifeq ($(BOOTLEGGERS_BUILD_ICON_SHAPE_OVERLAYS),true) 
     PRODUCT_PACKAGES += \
@@ -319,4 +321,22 @@ ifeq ($(BOOTLEGGERS_BUILD_UI_STYLE_OVERLAYS),true)
         ShishuAmalgamationThemeAndroidOverlay \
         ShishuAmalgamationThemeSettingsOverlay \
         ShishuAmalgamationThemeSystemUIOverlay
+endif
+
+# Lockscreen clock fonts
+ifeq ($(BOOTLEGGERS_BUILD_LOCK_CLOCK_FONT_OVERLAYS),true) 
+    PRODUCT_PACKAGES += \
+        ClockFontAdventProOverlay \
+        ClockFontBigNoodleTiltingOverlay \
+        ClockFontCherrySwashOverlay \
+        ClockFontHeadlineOverlay \
+        ClockFontRoadRageOverlay \
+        ClockFontSnowstormOverlay \
+        ClockFontViburOverlay \
+        ClockFontAlienLeagueOverlay \
+        ClockFontBikoOverlay \
+        ClockFontGinoraSansOverlay \
+        ClockFontRivieraOverlay \
+        ClockFontSedgwickAveOverlay \
+        ClockFontUnionOverlay
 endif
