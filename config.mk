@@ -55,57 +55,23 @@ ifeq ($(BOOTLEGGERS_BUILD_FONT_OVERLAYS),true)
             vendor/shishufied/fonts/prebuilt/gobold/GoboldThinLight-Italic.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/GoboldThinLight-Italic.ttf \
             vendor/shishufied/fonts/prebuilt/roadrage/road_rage.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/RoadRage-Regular.ttf \
             vendor/shishufied/fonts/prebuilt/snowstorm/snowstorm.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Snowstorm-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/vcrosd/vcr_osd_mono.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/ThemeableClock-vcrosd.ttf \
             vendor/shishufied/fonts/prebuilt/googlesans/GoogleSans-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/GoogleSans-Regular.ttf \
             vendor/shishufied/fonts/prebuilt/googlesans/GoogleSans-Medium.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/GoogleSans-Medium.ttf \
-            vendor/shishufied/fonts/prebuilt/fontage/AdamCGPro-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/AdamCGPro-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontage/AlexanaNeue-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/AlexanaNeue-Regular.ttf \
             vendor/shishufied/fonts/prebuilt/fontage/AlienLeague-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/AlienLeague-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontage/Azedo-Light.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Azedo-Light.ttf \
             vendor/shishufied/fonts/prebuilt/fontage/BigNoodleTilting-Italic.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/BigNoodleTilting-Italic.ttf \
             vendor/shishufied/fonts/prebuilt/fontage/BigNoodleTilting-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/BigNoodleTilting-Regular.ttf \
             vendor/shishufied/fonts/prebuilt/fontage/Biko-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Biko-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontage/Blern-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Blern-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontage/CoCoBiker-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/CoCoBiker-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontage/Fester-Medium.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Fester-Medium.ttf \
             vendor/shishufied/fonts/prebuilt/fontage/GinoraSans-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/GinoraSans-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontage/Inkferno-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Inkferno-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontage/Instruction-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Instruction-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontage/JackLane-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/JackLane-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontage/Metropolis1920-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Metropolis1920-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontage/Monad-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Monad-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontage/Neoneon-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Neoneon-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontage/Noir-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Noir-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontage/North-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/North-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontage/OutrunFuture-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/OutrunFuture-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontage/Qontra-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Qontra-Regular.ttf \
             vendor/shishufied/fonts/prebuilt/fontage/Riviera-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Riviera-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontage/FoxAndCat-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/ThemeableDate-fc.ttf \
-            vendor/shishufied/fonts/prebuilt/fontage/FoxAndCat-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/ThemeableOwner-fc.ttf \
-            vendor/shishufied/fonts/prebuilt/fontage/TheOutbox-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/TheOutbox-Regular.ttf \
             vendor/shishufied/fonts/prebuilt/fontage/Union-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Union-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontagev2/Abel-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Abel-Regular.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev2/AdventPro-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/AdventPro-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontagev2/ArchivoNarrow-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/ArchivoNarrow-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontagev2/AutourOne-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/AutourOne-Regular.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev2/Bariol-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Bariol-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontagev2/BadScript-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/BadScript-Regular.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev2/CherrySwash-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/CherrySwash-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontagev2/Codystar.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Codystar.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev2/din1451alt.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/din1451alt.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev2/Hanken-Light.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Hanken-Light.ttf \
-            vendor/shishufied/fonts/prebuilt/fontagev2/IBMPlexMono.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/IBMPlexMono.ttf \
-            vendor/shishufied/fonts/prebuilt/fontagev2/IBMPlexMono-Light.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/IBMPlexMono-Light.ttf \
-            vendor/shishufied/fonts/prebuilt/fontagev2/Jura-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Jura-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontagev2/KellySlab-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/KellySlab-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontagev2/Pompiere-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Pompiere-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontagev2/Raleway-Light.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Raleway-Light.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev2/ReemKufi-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/ReemKufi-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontagev2/Satisfy-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Satisfy-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontagev2/SeaweedScript-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/SeaweedScript-Regular.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev2/SedgwickAveDisplay-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/SedgwickAveDisplay-Regular.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev2/Vibur.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Vibur.ttf \
-            vendor/shishufied/fonts/prebuilt/fontagev2/Voltaire.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Voltaire.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev3/AuthenticSans-Medium.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/AuthenticSans-Medium.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev3/AuthenticSans-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/AuthenticSans-Regular.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev3/ComicNeue-Bold.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/ComicNeue-Bold.ttf \
@@ -147,16 +113,10 @@ ifeq ($(BOOTLEGGERS_BUILD_FONT_OVERLAYS),true)
             vendor/shishufied/fonts/prebuilt/fontagev3/Scientifica-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Scientifica-Regular.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev3/SofiaSans-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/SofiaSans-Regular.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev3/SofiaSans-Medium.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/SofiaSans-Medium.ttf \
-            vendor/shishufied/fonts/prebuilt/fontagev3/SofiaSansSemiCond-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/SofiaSansSemiCond-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontagev3/SofiaSansSemiCond-Medium.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/SofiaSansSemiCond-Medium.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev3/Universalis-Bold.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Universalis-Bold.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev3/Universalis-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Universalis-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontagev3/UniversalisCond-Bold.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/UniversalisCond-Bold.ttf \
-            vendor/shishufied/fonts/prebuilt/fontagev3/UniversalisCond-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/UniversalisCond-Regular.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev3/VG5000-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/VG5000-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontagev3/Vladisvostok-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Vladisvostok-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontagev3/Volte-Bold.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Volte-Bold.ttf \
-            vendor/shishufied/fonts/prebuilt/fontagev3/Volte-Medium.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Volte-Medium.ttf
+            vendor/shishufied/fonts/prebuilt/fontagev3/Vladisvostok-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Vladisvostok-Regular.ttf
 
         # Fonts required overlays packages
         PRODUCT_PACKAGES += \
@@ -182,7 +142,6 @@ ifeq ($(BOOTLEGGERS_BUILD_FONT_OVERLAYS),true)
             FontMilimetreOverlay \
             FontMittelschriftOverlay \
             FontNowOverlay \
-            FontOdibeeOverlay \
             FontOpenSauceOverlay \
             FontPanamericanaOverlay \
             FontPisselOverlay \
@@ -191,15 +150,10 @@ ifeq ($(BOOTLEGGERS_BUILD_FONT_OVERLAYS),true)
             FontReemKufiOverlay \
             FontRobotoOverlay \
             FontRouterGothicNarrowOverlay \
-            FontRoutedGothicRobotoCondensedOverlay \
             FontScientificaOverlay \
             FontSofiaSansOverlay \
-            FontSofiaSansSemiCondensedOverlay \
-            FontUniversalisCondOverlay \
             FontUniversalisRegOverlay \
-            FontVG5000Overlay \
-            FontVladivostokOverlay \
-            FontVolteOverlay
+            FontVladivostokOverlay
     endif
 endif
 
@@ -334,9 +288,11 @@ ifeq ($(BOOTLEGGERS_BUILD_LOCK_CLOCK_FONT_OVERLAYS),true)
         ClockFontSnowstormOverlay \
         ClockFontViburOverlay \
         ClockFontAlienLeagueOverlay \
+        ClockFontOdibeeSansOverlay \
         ClockFontBikoOverlay \
         ClockFontGinoraSansOverlay \
         ClockFontRivieraOverlay \
         ClockFontSedgwickAveOverlay \
-        ClockFontUnionOverlay
+        ClockFontUnionOverlay \
+        ClockFontVG5000Overlay
 endif
