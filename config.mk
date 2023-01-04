@@ -116,7 +116,21 @@ ifeq ($(BOOTLEGGERS_BUILD_FONT_OVERLAYS),true)
             vendor/shishufied/fonts/prebuilt/fontagev3/Universalis-Bold.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Universalis-Bold.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev3/Universalis-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Universalis-Regular.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev3/VG5000-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/VG5000-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontagev3/Vladisvostok-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Vladisvostok-Regular.ttf
+            vendor/shishufied/fonts/prebuilt/fontagev3/Vladisvostok-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Vladisvostok-Regular.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4lock/3DIsometric-Black.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/3DIsometric-Black.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4lock/3DIsometric-Bold.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/3DIsometric-Bold.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4lock/BalticBodden.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/BalticBodden.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4lock/BalticCoast.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/BalticCoast.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4lock/BalticDune.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/BalticDune.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4lock/BalticStorm.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/BalticStorm.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4lock/Cafe24Decoshadow.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Cafe24Decoshadow.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4lock/Forta.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Forta.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4lock/MuseoModerno.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/MuseoModerno.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4lock/mx-wasgard.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/mx-wasgard.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4lock/NeptunCAT.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/NeptunCAT.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4lock/ProdeltCo.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/ProdeltCo.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4lock/Rubik-Glitch-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Rubik-Glitch-Regular.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4lock/Tourney-Medium.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Tourney-Medium.ttf
 
         # Fonts required overlays packages
         PRODUCT_PACKAGES += \
@@ -294,5 +308,19 @@ ifeq ($(BOOTLEGGERS_BUILD_LOCK_CLOCK_FONT_OVERLAYS),true)
         ClockFontRivieraOverlay \
         ClockFontSedgwickAveOverlay \
         ClockFontUnionOverlay \
-        ClockFontVG5000Overlay
+        ClockFontVG5000Overlay \
+        ClockFont3DIsometricBlackOverlay \
+        ClockFont3DIsometricBoldOverlay \
+        ClockFontBalticBoddenOverlay \
+        ClockFontBalticCoastOverlay \
+        ClockFontBalticDuneOverlay \
+        ClockFontBalticStormOverlay \
+        ClockFontCafe24DecoshadowOverlay \
+        ClockFontFortaOverlay \
+        ClockFontMuseoModernoOverlay \
+        ClockFontMXWasgardOverlay \
+        ClockFontNeptunCATOverlay \
+        ClockFontProdeltCoOverlay \
+        ClockFontRubikGlitchOverlay \
+        ClockFontTourneyMediumOverlay
 endif
