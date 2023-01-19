@@ -70,7 +70,6 @@ ifeq ($(BOOTLEGGERS_BUILD_FONT_OVERLAYS),true)
             vendor/shishufied/fonts/prebuilt/fontagev2/din1451alt.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/din1451alt.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev2/Hanken-Light.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Hanken-Light.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev2/ReemKufi-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/ReemKufi-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontagev2/SedgwickAveDisplay-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/SedgwickAveDisplay-Regular.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev2/Vibur.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Vibur.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev3/AuthenticSans-Medium.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/AuthenticSans-Medium.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev3/AuthenticSans-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/AuthenticSans-Regular.ttf \
@@ -128,6 +127,7 @@ ifeq ($(BOOTLEGGERS_BUILD_FONT_OVERLAYS),true)
             vendor/shishufied/fonts/prebuilt/fontagev4lock/MuseoModerno.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/MuseoModerno.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev4lock/mx-wasgard.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/mx-wasgard.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev4lock/NeptunCAT.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/NeptunCAT.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4lock/PermanentMarker.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/PermanentMarker.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev4lock/ProdeltCo.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/ProdeltCo.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev4lock/Rubik-Glitch-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Rubik-Glitch-Regular.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev4lock/Tourney-Medium.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Tourney-Medium.ttf
@@ -305,8 +305,8 @@ ifeq ($(BOOTLEGGERS_BUILD_LOCK_CLOCK_FONT_OVERLAYS),true)
         ClockFontOdibeeSansOverlay \
         ClockFontBikoOverlay \
         ClockFontGinoraSansOverlay \
+        ClockFontPermanentMarkerOverlay \
         ClockFontRivieraOverlay \
-        ClockFontSedgwickAveOverlay \
         ClockFontUnionOverlay \
         ClockFontVG5000Overlay \
         ClockFont3DIsometricBlackOverlay \

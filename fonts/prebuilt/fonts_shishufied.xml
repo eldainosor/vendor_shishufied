@@ -74,9 +74,6 @@
     <family customizationType="new-named-family" name="reemkufi">
         <font weight="300" style="normal">ReemKufi-Regular.ttf</font>
     </family>
-    <family customizationType="new-named-family" name="sedgwick-ave">
-        <font weight="300" style="normal">SedgwickAveDisplay-Regular.ttf</font>
-    </family>
     <family customizationType="new-named-family" name="vibur">
         <font weight="300" style="normal">Vibur.ttf</font>
     </family>
@@ -261,6 +258,9 @@
     </family>
     <family customizationType="new-named-family" name="tourney-medium">
         <font weight="500" style="normal">Tourney-Medium.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="permanent-marker">
+        <font weight="300" style="normal">PermanentMarker.ttf</font>
     </family>
 
 </fonts-modification>
