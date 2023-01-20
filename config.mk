@@ -130,7 +130,13 @@ ifeq ($(BOOTLEGGERS_BUILD_FONT_OVERLAYS),true)
             vendor/shishufied/fonts/prebuilt/fontagev4lock/PermanentMarker.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/PermanentMarker.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev4lock/ProdeltCo.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/ProdeltCo.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev4lock/Rubik-Glitch-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Rubik-Glitch-Regular.ttf \
-            vendor/shishufied/fonts/prebuilt/fontagev4lock/Tourney-Medium.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Tourney-Medium.ttf
+            vendor/shishufied/fonts/prebuilt/fontagev4lock/Tourney-Medium.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Tourney-Medium.ttf \
+            vendor/shishufied/fonts/prebuilt/circularp404/Circular-Std-Bold.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Circular-Std-Bold.ttf \
+            vendor/shishufied/fonts/prebuilt/circularp404/Circular-Std-BoldItalic.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Circular-Std-BoldItalic.ttf \
+            vendor/shishufied/fonts/prebuilt/circularp404/Circular-Std-Italic.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Circular-Std-Italic.ttf \
+            vendor/shishufied/fonts/prebuilt/circularp404/Circular-Std-Medium.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Circular-Std-Medium.ttf \
+            vendor/shishufied/fonts/prebuilt/circularp404/Circular-Std-MediumItalic.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Circular-Std-MediumItalic.ttf \
+            vendor/shishufied/fonts/prebuilt/circularp404/Circular-Std-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Circular-Std-Regular.ttf
 
         # Fonts required overlays packages
         PRODUCT_PACKAGES += \
@@ -167,7 +173,8 @@ ifeq ($(BOOTLEGGERS_BUILD_FONT_OVERLAYS),true)
             FontScientificaOverlay \
             FontSofiaSansOverlay \
             FontUniversalisRegOverlay \
-            FontVladivostokOverlay
+            FontVladivostokOverlay \
+            FontCircularStdOverlay
     endif
 endif
 
