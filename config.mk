@@ -131,6 +131,21 @@ ifeq ($(BOOTLEGGERS_BUILD_FONT_OVERLAYS),true)
             vendor/shishufied/fonts/prebuilt/fontagev4lock/ProdeltCo.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/ProdeltCo.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev4lock/Rubik-Glitch-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Rubik-Glitch-Regular.ttf \
             vendor/shishufied/fonts/prebuilt/fontagev4lock/Tourney-Medium.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Tourney-Medium.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4/Blazma-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Blazma-Regular.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4/Cardelina.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Cardelina.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4/CookieRun-Bold.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/CookieRun-Bold.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4/CookieRun-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/CookieRun-Regular.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4/Gemsbuck01-Bold.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Gemsbuck01-Bold.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4/GiganticFS.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/GiganticFS.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4/Hezaedrus-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Hezaedrus-Regular.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4/HyperwaveDisplay.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/HyperwaveDisplay.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4/Jicaleta-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Jicaleta-Regular.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4/JUSTSansExBold.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/JUSTSansExBold.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4/JUSTSansRegular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/JUSTSansRegular.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4/punk-mono-extendedmedium.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/punk-mono-extendedmedium.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4/punk-mono-medium.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/punk-mono-medium.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4/punk-mono-oblique.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/punk-mono-oblique.ttf \
+            vendor/shishufied/fonts/prebuilt/fontagev4/punk-mono-regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/punk-mono-regular.ttf \
             vendor/shishufied/fonts/prebuilt/circularp404/Circular-Std-Bold.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Circular-Std-Bold.ttf \
             vendor/shishufied/fonts/prebuilt/circularp404/Circular-Std-BoldItalic.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Circular-Std-BoldItalic.ttf \
             vendor/shishufied/fonts/prebuilt/circularp404/Circular-Std-Italic.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Circular-Std-Italic.ttf \
@@ -174,7 +189,15 @@ ifeq ($(BOOTLEGGERS_BUILD_FONT_OVERLAYS),true)
             FontSofiaSansOverlay \
             FontUniversalisRegOverlay \
             FontVladivostokOverlay \
-            FontCircularStdOverlay
+            FontCircularStdOverlay \
+            FontBlazmaHyperwaveOverlay \
+            FontCardelinaOverlay \
+            FontCookieRunOverlay \
+            FontGemsbuckPunkMonoObliqueOverlay \
+            FontGiganticFSHezaedrusOverlay \
+            FontJicaletaOverlay \
+            FontJustSansOverlay \
+            FontPunkMonoOverlay
     endif
 endif
 
