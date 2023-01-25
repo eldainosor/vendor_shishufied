@@ -212,6 +212,7 @@ ifeq ($(BOOTLEGGERS_BUILD_ICON_SHAPE_OVERLAYS),true)
         IconShapeHexagonOverlay \
         IconShapeLeafOverlay \
         IconShapePebbleOverlay \
+        IconShapeRiceBallsOverlay \
         IconShapeRoundedHexagonOverlay \
         IconShapeRoundedRectOverlay \
         IconShapeSquareOverlay \
