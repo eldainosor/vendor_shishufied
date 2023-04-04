@@ -292,7 +292,9 @@ ifeq ($(BOOTLEGGERS_BUILD_UI_STYLE_OVERLAYS),true)
     PRODUCT_PACKAGES += \
         UnmonetThemeAndroidOverlay \
         UnmonetThemeSettingsOverlay \
+        UnmonetThemeSystemUIOverlay \
         BlackThemeAndroidOverlay \
+        BlackThemeSettingsOverlay \
         BlackThemeSystemUIOverlay \
         NexodusThemeAndroidOverlay \
         NexodusThemeSettingsOverlay \
