@@ -18,4 +18,31 @@
 <resources>
     <!-- The height of the divider between the individual notifications. -->
     <dimen name="notification_divider_height">0dp</dimen>
+    <!-- Radius for notifications corners with adjacent notifications -->
+    <dimen name="notification_corner_radius_small">0dp</dimen>
+    <dimen name="overlay_action_container_corner_radius">12dp</dimen>
+
+    <dimen name="qs_footer_action_corner_radius">6dp</dimen>
+
+    <dimen name="volume_dialog_slider_corner_radius">12dp</dimen>
+
+    <dimen name="qs_corner_radius">18dp</dimen>
+    <dimen name="qs_security_footer_corner_radius">12dp</dimen>
+    <dimen name="keyguard_affordance_fixed_radius">8dp</dimen>
+    <dimen name="global_actions_corner_radius">12dp</dimen>
+    <dimen name="qs_media_album_radius">8dp</dimen>
+    <dimen name="control_corner_radius">8dp</dimen>
+    <dimen name="screenrecord_spinner_background_radius">12dp</dimen>
+    <dimen name="media_output_dialog_icon_corner_radius">8dp</dimen>
+    <dimen name="media_output_dialog_background_radius">12dp</dimen>
+    <dimen name="wallet_empty_state_corner_radius">12dp</dimen>
+    <dimen name="ongoing_call_chip_corner_radius">12dp</dimen>
+    <!-- Radius of switch bar -->
+    <dimen name="settingslib_switch_bar_radius">12dp</dimen>
+    <!-- Radius of switch track -->
+    <dimen name="settingslib_switch_track_radius">12dp</dimen>
+
+    <!-- Internet dialog related dimensions -->
+    <dimen name="internet_dialog_corner_radius">12dp</dimen>
+    <dimen name="volume_dialog_panel_width_half">12dp</dimen>
 </resources>
