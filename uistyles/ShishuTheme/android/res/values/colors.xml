@@ -43,4 +43,7 @@
     <color name="system_neutral2_800">#2f2f3d</color>
     <color name="system_neutral2_900">#121217</color>
     <color name="system_neutral2_1000">#121217</color>
+
+    <!-- This is a lazy change, dwai -->
+    <color name="bootleg_accent_gradient_end_color">@*android:color/system_accent1_500</color>
 </resources>

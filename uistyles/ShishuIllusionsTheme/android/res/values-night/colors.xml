@@ -13,13 +13,9 @@
   ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License
+  NOTE: You might also want to edit: core/res/res/values-night/*.xml
   -->
-
 <resources>
-    <!-- Changes for background theme, the system_neutral method 
-        doesn't work for transparency -->
-    <color name="primary_device_default_settings">@*android:color/background_device_default_dark</color>
-
     <!-- This is a lazy change, dwai -->
-    <color name="bootleg_accent_gradient_end_color">@*android:color/system_accent1_300</color>
+    <color name="bootleg_accent_gradient_end_color">@*android:color/system_accent1_200</color>
 </resources>

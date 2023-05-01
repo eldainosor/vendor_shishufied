@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-  ~ Copyright (C) 2018 The Android Open Source Project
+  ~ Copyright (C) 2021 The Android Open Source Project
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -12,14 +12,15 @@
   ~ distributed under the License is distributed on an "AS IS" BASIS,
   ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
   ~ See the License for the specific language governing permissions and
-  ~ limitations under the License
+  ~ limitations under the License.
   -->
 
-<resources>
-    <!-- Changes for background theme, the system_neutral method 
-        doesn't work for transparency -->
-    <color name="primary_device_default_settings">@*android:color/background_device_default_dark</color>
-
-    <!-- This is a lazy change, dwai -->
-    <color name="bootleg_accent_gradient_end_color">@*android:color/system_accent1_300</color>
-</resources>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="24dp" />
+    <gradient 
+        android:startColor="@*android:color/accent_device_default"
+        android:centerColor="@*android:color/bootleg_accent_gradient_end_color"
+        android:endColor="@*android:color/accent_device_default" 
+        android:angle="45" />
+    <size android:width="48dp" android:height="48dp" />
+</shape>
