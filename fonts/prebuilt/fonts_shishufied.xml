@@ -44,6 +44,18 @@
     <family customizationType="new-named-family" name="bignoodle-regular">
         <font weight="300" style="normal">BigNoodleTilting-Regular.ttf</font>
     </family>
+    <family customizationType="new-named-family" name="atkinson-bold">
+        <font weight="300" style="normal">AtkinsonHyperlegible-Bold.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="atkinson-bold-italic">
+        <font weight="300" style="normal">AtkinsonHyperlegible-BoldItalic.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="atkinson-italic">
+        <font weight="300" style="normal">AtkinsonHyperlegible-Italic.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="atkinson-regular">
+        <font weight="300" style="normal">AtkinsonHyperlegible-Regular.ttf</font>
+    </family>
     <family customizationType="new-named-family" name="biko">
         <font weight="300" style="normal">Biko-Regular.ttf</font>
     </family>
