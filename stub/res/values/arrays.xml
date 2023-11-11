@@ -2,20 +2,16 @@
 <resources>
     <array name="color_bundles" translatable="false">
         <item>default</item>
-        <item>almared</item>
-        <item>pipkinpink</item>
-        <item>quetzalgold</item>
-        <item>movemint</item>
+        <item>coldblue</item>
+        <item>cometsunks_c</item>
+        <item>dizziestindigo</item>
+        <item>pipipink</item>
         <item>holillusion</item>
-        <item>maniamber</item>
-        <item>meltedbrainred</item>
-        <item>dimigopink</item>
-        <item>spookedpurple</item>
-        <item>pacleggerswarmth</item>
-        <item>nexoduscold</item>
-        <item>quetzal1</item>
-        <item>quetzal2</item>
-        <item>quetzal3</item>
-        <item>quetzal4</item>
+        <item>notimpurple</item>
+        <item>dematorange</item>
+        <item>cometsunks_a</item>
+        <item>nexodus</item>
+        <item>movemint</item>
+        <item>cometsunks_b</item>
     </array>
 </resources>
