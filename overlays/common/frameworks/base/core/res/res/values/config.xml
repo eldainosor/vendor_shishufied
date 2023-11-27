@@ -23,4 +23,9 @@
     <string name="config_headlineFontFamilyMedium" translatable="false">sans-serif-condensed-medium</string>
      <!-- Name of the font family to use in the default lockscreen clock -->
      <string name="config_clockFontFamily" translatable="false">gobold-light-sys</string>
+
+    <!-- System font packages (overlay in vendor) -->
+    <string-array name="config_fontPackages" translatable="false">
+        <item>com.bootleggers.fonts</item>
+    </string-array>
 </resources>
