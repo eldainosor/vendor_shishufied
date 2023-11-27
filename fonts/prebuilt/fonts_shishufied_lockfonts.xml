@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright 2019 Bootleggers ROM
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+        http://www.apache.org/licenses/LICENSE-2.0
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<fonts-modification version="1">
+    <family customizationType="new-named-family" name="gobold-sys">
+        <font weight="300" style="normal">GoboldThinLight.ttf</font>
+        <font weight="300" style="italic">GoboldThinLight-Italic.ttf</font>
+        <font weight="400" style="normal">Gobold.ttf</font>
+        <font weight="400" style="italic">Gobold-Italic.ttf</font>
+        <font weight="700" style="normal">GoboldBold.ttf</font>
+        <font weight="700" style="italic">GoboldBold-Italic.ttf</font>
+    </family>
+
+    <alias name="gobold-light-sys" to="gobold-sys" weight="300" />
+
+    <!-- Lockscren Fonts -->
+    <family customizationType="new-named-family" name="roadrage-sys">
+        <font weight="300" style="normal">RoadRage-Regular.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="snowstorm-sys">
+        <font weight="300" style="normal">Snowstorm-Regular.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="googlesans-sys">
+        <font weight="400" style="normal">GoogleSans-Regular.ttf</font>
+        <font weight="500" style="normal">GoogleSans-Medium.ttf</font>
+    </family>
+    <alias name="googlesans-medium" to="googlesans-sys" weight="500" />
+    <family customizationType="new-named-family" name="alien-league">
+        <font weight="300" style="normal">AlienLeague-Regular.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="bignoodle-italic">
+        <font weight="300" style="normal">BigNoodleTilting-Italic.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="atkinson-regular">
+        <font weight="300" style="normal">AtkinsonHyperlegible-Regular.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="biko">
+        <font weight="300" style="normal">Biko-Regular.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="ginora-sans">
+        <font weight="300" style="normal">GinoraSans-Regular.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="riviera">
+        <font weight="300" style="normal">Riviera-Regular.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="unionfont">
+        <font weight="300" style="normal">Union-Regular.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="adventpro">
+        <font weight="300" style="normal">AdventPro-Regular.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="cherryswash">
+        <font weight="300" style="normal">CherrySwash-Regular.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="vibur">
+        <font weight="300" style="normal">Vibur.ttf</font>
+    </family>
+    <!-- Fontage v3 -->
+    <family customizationType="new-named-family" name="odibee-sans">
+        <font weight="300" style="normal">OdibeeSans-Regular.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="vg5000">
+        <font weight="300" style="normal">VG5000-Regular.ttf</font>
+    </family>
+    <!-- Fontage v4-->
+    <family customizationType="new-named-family" name="3d-isometric-black">
+        <font weight="700" style="normal">3DIsometric-Black.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="3d-isometric-bold">
+        <font weight="600" style="normal">3DIsometric-Bold.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="baltic-bodden">
+        <font weight="300" style="normal">BalticBodden.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="baltic-coast">
+        <font weight="300" style="normal">BalticCoast.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="baltic-dune">
+        <font weight="300" style="normal">BalticDune.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="baltic-storm">
+        <font weight="300" style="normal">BalticStorm.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="cafe24-decoshadow">
+        <font weight="300" style="normal">Cafe24Decoshadow.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="forta">
+        <font weight="400" style="normal">Forta.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="museo-moderno">
+        <font weight="300" style="normal">MuseoModerno.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="mx-wasgard">
+        <font weight="300" style="normal">mx-wasgard.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="neptun-cat">
+        <font weight="400" style="normal">NeptunCAT.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="prodelt-co">
+        <font weight="300" style="normal">ProdeltCo.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="rubik-glitch">
+        <font weight="700" style="normal">Rubik-Glitch-Regular.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="tourney-medium">
+        <font weight="500" style="normal">Tourney-Medium.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="permanent-marker">
+        <font weight="300" style="normal">PermanentMarker.ttf</font>
+    </family>
+</fonts-modification>
