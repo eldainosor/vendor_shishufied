@@ -18,4 +18,16 @@
 <resources>
     <string name="themes_stub_package" translatable="false">com.android.customization.themes</string>
     <string name="clocks_stub_package" translatable="false">com.android.customization.themes</string>
+
+    <!-- List of packages whose icons are used to preview the icon shape for a theme. These are
+        typically GMS apps so they should be available in GMS devices. -->
+    <array name="icon_shape_preview_packages">
+        <item>com.android.settings</item>
+        <item>com.android.deskclock</item>
+        <item>com.android.launcher3</item>
+        <item>org.oxycblt.auxio</item>
+        <item>com.mixplorer</item>
+        <item>com.android.customization.themes</item>
+    </array>
+
 </resources>
